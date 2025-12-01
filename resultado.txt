@@ -1,0 +1,6 @@
+https://google.com - Status: 301
+https://example.com - Status: 200
+https://www.globo.com/healthcheck - Status: 200
+https://www.linkedin.com/ - Status: 200
+https://www.btgpactual.com/ - Status: 200
+https://www.globo.com/healthchecks/ - Status: 404
