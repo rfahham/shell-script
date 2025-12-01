@@ -1,4 +1,4 @@
-# shell-script
+# Shell Script
 
 Projetos em Shell Script
 
